@@ -48,14 +48,24 @@ Mahasiswa Program RPL Universitas Pendidikan Indonesia.
 
 Fokus pada pengembangan media pembelajaran digital, teknologi pendidikan, literasi digital, dan inovasi pembelajaran Sekolah Dasar.
 
-## Lisensi
+## MIT Lisensi
 
-Copyright (c) 2026 Fahmi Sirojudin
-
-Proyek ini dilisensikan di bawah Apache License 2.0.
-
-Silahkan menggunakan, memodifikasi, dan mendistribusikan proyek ini sesuai dengan ketentuan lisensi yang berlaku.
-
+Copyright (c) 2026 fahmi sirojudin
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 ---
 
 Jika media ini bermanfaat, jangan lupa memberikan ⭐ pada repositori GitHub ini.
