@@ -1,2 +1,68 @@
-# MEDIA-BELAJAR-KELAS-3-SD
-Media ini di rancang agar siswa kelas 3 bisa lebih semangat lagi dalam belajarnya
+# MEDIA BELAJAR KELAS 3 SD
+Media Belajar Kelas 3 SD adalah media pembelajaran interaktif berbasis HTML, CSS, dan JavaScript yang dirancang untuk membantu siswa Sekolah Dasar belajar dengan cara yang lebih menyenangkan, aktif, dan bermakna.
+Proyek ini dibuat sebagai bagian dari pengembangan media pembelajaran digital yang dapat digunakan oleh guru, mahasiswa pendidikan, maupun orang tua dalam mendukung proses belajar siswa.
+
+## Tentang Media
+Media ini menggabungkan unsur cerita, permainan edukatif, latihan interaktif, serta evaluasi sederhana untuk meningkatkan keterlibatan siswa dalam pembelajaran.
+Salah satu media yang tersedia dalam repositori ini adalah:
+
+**Jejak Cerita: Petualangan Menemukan Sebab dan Akibat**
+
+Melalui media ini, siswa diajak menjadi "penyelidik cerita" untuk memahami hubungan sebab dan akibat dalam teks bacaan melalui berbagai aktivitas interaktif.
+
+## Fitur
+* Tampilan ramah anak
+* Desain responsif
+* Aktivitas drag and drop
+* Kuis interaktif
+* Latihan urutan peristiwa
+* Umpan balik langsung
+* Navigasi sederhana dan mudah digunakan
+* Dapat dijalankan langsung melalui browser tanpa instalasi
+
+## Sasaran Pengguna
+* Siswa Sekolah Dasar
+* Guru Sekolah Dasar
+* Mahasiswa Pendidikan Guru Sekolah Dasar (PGSD)
+* Orang tua yang mendampingi belajar anak
+
+## Teknologi yang Digunakan
+* HTML5
+* CSS3
+* JavaScript
+* Tailwind CSS
+
+## Cara Menggunakan
+1. Unduh atau clone repositori ini.
+2. Buka file HTML menggunakan browser.
+3. Jalankan media pembelajaran secara langsung.
+4. Gunakan pada kegiatan pembelajaran di kelas maupun belajar mandiri.
+
+## Kontribusi
+Kontribusi untuk pengembangan media pembelajaran sangat terbuka. Apabila Anda menemukan bug, memiliki ide pengembangan, atau ingin menambahkan media pembelajaran baru, silakan membuat Issue atau Pull Request.
+
+## Pembuat
+**Fahmi Sirojudin**
+
+Mahasiswa Program RPL Universitas Pendidikan Indonesia.
+
+Fokus pada pengembangan media pembelajaran digital, teknologi pendidikan, literasi digital, dan inovasi pembelajaran Sekolah Dasar.
+
+## Lisensi
+
+Copyright (c) 2026 Fahmi Sirojudin
+
+Proyek ini dilisensikan di bawah Apache License 2.0.
+
+Silahkan menggunakan, memodifikasi, dan mendistribusikan proyek ini sesuai dengan ketentuan lisensi yang berlaku.
+
+---
+
+Jika media ini bermanfaat, jangan lupa memberikan ⭐ pada repositori GitHub ini.
+
+## Sitasi
+Jika Anda menggunakan atau mengadaptasi media ini dalam penelitian, tugas kuliah, pelatihan, atau pengembangan media pembelajaran lainnya, mohon mencantumkan atribusi kepada:
+
+Fahmi Sirojudin
+MEDIA BELAJAR KELAS 3 SD
+GitHub Repository
